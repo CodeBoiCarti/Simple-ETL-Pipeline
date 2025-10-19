@@ -1,0 +1,14 @@
+data_source:
+  csv_path: "data/customers.csv"
+  delimiter: ","
+
+database:
+  db_path: "etl_demo.db"
+  table_name: "customers"
+
+transformations:
+  filter_active: true
+  drop_empty_rows: true
+
+logging:
+  level: "INFO"

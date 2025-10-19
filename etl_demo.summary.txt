@@ -1,0 +1,9 @@
+
+---------- DATA SUMMARY ----------
+Total rows loaded: 37
+Active customers: 37
+Inactive customers: 0
+Missing Age values: 2
+Missing Country values: 0
+Countries represented: 18
+----------------------------------

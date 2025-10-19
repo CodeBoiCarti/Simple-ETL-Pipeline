@@ -1,0 +1,53 @@
+Name,Email,Status,JoinDate,Age,Country
+John Doe,john.doe@example.com,Active,2023-02-15,28,USA
+ Jane Smith ,jane.smith@example.com ,Inactive,2022-11-03,32,Canada
+Bob Ray,bob.ray@example.com,Active,2024/03/20,,UK
+Alice Johnson,alice.johnson@example.com,Active,2021-07-12,41, Australia 
+Mark Lee,marklee@example.com,active,2023-05-09,29,USA
+Sara Connor,sara.connor@example.com,INACTIVE,2020-08-17,38,USA
+Tom   Brown,tom.brown@example.com,Active,2022-01-05,34,
+,missing.email@,Active,2023-09-30,27,India
+Priya Sharma,priya.sharma@example.com,Active,2023-12-01,25,India
+Liu Wei,liu.wei@example.cn,Active,2022-06-20,31,China
+Carlos Mendez,carlos.mendez@example.mx,Inactive,2021-09-12,45,Mexico
+Anne O'Neil,anne.oneil@example.ie,active,2020-03-03,36,Ireland
+Igor Petrov,igor.petrov@example.ru,Active,2023-04-14,39,Russia
+Fatima Zahra,fatima.zahra@example.ma,ACTIVE,2021-11-25,28,Morocco
+Emma Stone,emma.stone@sample,Active,2023-02-02,30,USA
+Robert King,robert.king@example.com,Inactive,2019-07-18,42,USA
+Aiko Tanaka,aiko.tanaka@example.jp,Active,2023-06-22,26,Japan
+Omar Khalid,omar.khalid@example.ae,Active,2022-08-09,,UAE
+Lucia Rossi,lucia.rossi@example.it,Inactive,2021-05-17,37,Italy
+George Williams,george.williams@example.com,active,2024-01-11,29,UK
+Hannah Lee,hannah.lee@sample.org,Active,2023-09-05,27,South Korea
+Benjamin Clark,ben.clark@example.com,Inactive,2021-04-22,40,USA
+Chloe Zhang,chloe.zhang@example.cn,Active,2024-02-19,33,China
+David Miller,david.miller@example.com,active,2020-10-30,35,Canada
+Elena Petrova,elena.petrov@example.ru,Active,2022-03-12,29,Russia
+Lucas Martin,lucas.martin@example.fr,Inactive,2021-12-25,38,France
+Aarav Patel,aarav.patel@example.in,Active,2023-01-19,31,India
+Sophia Brown,sophia.brown@example.com,Active,2022-02-14,30,USA
+Noah Smith,noah.smith@example.com,Active,2024-06-01,25,UK
+Olivia Johnson,olivia.johnson@example.com,Inactive,2023-07-15,27,Australia
+Liam Wilson,liam.wilson@example.com,active,2021-09-09,33,New Zealand
+Ethan Chen,ethan.chen@example.cn,Active,2023-03-03,29,China
+Mia Lopez,mia.lopez@example.mx,Inactive,2020-12-20,34,Mexico
+Isabella Rossi,isabella.rossi@example.it,Active,2023-11-30,26,Italy
+Jacob Davis,jacob.davis@example.com,Active,2022-05-07,30,USA
+Emily Taylor,emily.taylor@example.co.uk,Inactive,2021-08-02,41,UK
+Matthew White,matthew.white@example.com,Active,2023-09-14,36,Canada
+Ava Martinez,ava.martinez@example.mx,Active,2024-01-22,29,Mexico
+Evelyn Kim,evelyn.kim@example.kr,ACTIVE,2022-07-10,32,South Korea
+Mason Garcia,mason.garcia@example.com,Inactive,2020-11-25,45,USA
+Harper Gonzalez,harper.gonzalez@example.es,Active,2023-05-05,27,Spain
+Elijah Thompson,elijah.thompson@example.com,Active,2024-04-09,31,USA
+Abigail Adams,abigail.adams@example.com,Inactive,2022-10-19,35,USA
+Sebastian Nguyen,sebastian.nguyen@example.vn,Active,2023-03-29,28,Vietnam
+Ella Walker,ella.walker@example.co.uk,Active,2023-06-16,26,UK
+Aiden Hall,aiden.hall@example.com,Inactive,2021-01-08,43,USA
+Grace Allen,grace.allen@example.com,Active,2023-08-25,29,USA
+Aria Hernandez,aria.hernandez@example.mx,active,2022-02-28,33,Mexico
+Zoe Rivera,zoe.rivera@example.es,Inactive,2020-05-13,37,Spain
+John Smith,john.smith@fake,Active,2024-02-29,22,USA
+Mary Poppins,marypoppins@@example.com,Active,2023-13-40,27,UK
+
