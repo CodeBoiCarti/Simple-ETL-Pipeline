@@ -26,7 +26,6 @@ A summary report is generated at the end of each run.
 ---
 
 ## 2. Project Structure
-
 etl-pipeline/
 ├── data/
 │   └── customers.csv
@@ -34,8 +33,8 @@ etl-pipeline/
 ├── config.yaml
 ├── requirements.txt
 └── README.md
-├── etl_demo.db  # generated after running
-└── etl_demo_summary.txt  # generated after running
+├── etl_demo.db  #generated after running
+└── etl_demo_summary.txt  #generated after running
 
 ## 3. Installation and Setup
 
@@ -58,3 +57,4 @@ etl-pipeline/
 
 This project is released under the MIT License.
 You are free to use and modify it for educational or professional purposes.
+
