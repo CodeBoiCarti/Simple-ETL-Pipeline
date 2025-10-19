@@ -23,18 +23,13 @@ This project demonstrates a basic Extract, Transform, Load (ETL) pipeline built 
 
 etl-pipeline/
 ├── data/
-│ └── customers.csv
-│
+│   └── customers.csv
 ├── etl_pipeline.py
 ├── config.yaml
 ├── requirements.txt
-├── README.md
-│
-├── etl_demo.db # generated after running
-└── etl_demo.summary.txt # generated after running
-
-yaml
-Copy code
+└── README.md
+├── etl_demo.db  # generated after running
+└── etl_demo_summary.txt  # generated after running
 
 ---
 
