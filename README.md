@@ -46,7 +46,7 @@ Copy code
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<codeboicarti>/etl-pipeline.git
+   git clone https://github.com/CodeBoiCarti/Simple-ETL-Pipeline.git
    cd etl-pipeline
 Install dependencies:
 
