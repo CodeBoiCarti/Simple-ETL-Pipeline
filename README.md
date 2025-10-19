@@ -31,8 +31,6 @@ etl-pipeline/
 ├── etl_demo.db  # generated after running
 └── etl_demo_summary.txt  # generated after running
 
----
-
 ## 3. Installation and Setup
 
 ### Prerequisites
