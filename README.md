@@ -26,6 +26,7 @@ A summary report is generated at the end of each run.
 ---
 
 ## 2. Project Structure
+```bash
 etl-pipeline/
 ├── data/
 │   └── customers.csv
@@ -35,7 +36,7 @@ etl-pipeline/
 └── README.md
 ├── etl_demo.db  #generated after running
 └── etl_demo_summary.txt  #generated after running
-
+```
 ## 3. Installation and Setup
 
 ### Prerequisites
@@ -53,8 +54,9 @@ etl-pipeline/
    ```bash
    python etl_pipeline.py
 
-8. License
 
-This project is released under the MIT License.
+
+This project was made by Gokulakrishnan K, M.tech in Computer Science.
 You are free to use and modify it for educational or professional purposes.
+
 
